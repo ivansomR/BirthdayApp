@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="mail.msg.birthday"> I wish you a very nice day, and have a really nice party with family and friends. Happy Birthday %s!</string>
+    <string name="mail.subject">Happy Birthday</string>
+    <string name="mail.choose">Send BirthDay mail…</string>
+    <string name="about_me">About Me</string>
+</resources>
